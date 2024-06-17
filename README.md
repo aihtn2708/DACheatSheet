@@ -29,28 +29,34 @@ Data Analytics Cheat Sheet
 Definition: Ensuring data is accurate, complete, and reliable.
 Key Elements: Accuracy, completeness, consistency, timeliness, validity.
 Best Practices: Regular data audits, data cleansing, validation rules.
-Data Management
+
+## Data Management
 
 Definition: Handling data to ensure its accessibility, reliability, and timeliness.
 Key Elements: Data storage, data integration, data security.
 Best Practices: Implement data warehousing, backup policies, access control.
-Data Privacy and Security
+
+## Data Privacy and Security
 
 Definition: Protecting data from unauthorized access and ensuring user privacy.
 Key Elements: Encryption, anonymization, compliance (GDPR, CCPA).
 Best Practices: Encryption protocols, privacy policies, regular security assessments.
-Data Policies and Standards
+
+## Data Policies and Standards
 
 Definition: Guidelines and rules governing data management practices.
 Key Elements: Data policies, data standards, compliance.
 Best Practices: Establish clear data policies, enforce data standards, ensure regulatory compliance.
-Data Stewardship
+
+## Data Stewardship
 
 Definition: Managing and overseeing data assets to ensure data quality and integrity.
 Key Elements: Data stewards, data ownership, accountability.
 Best Practices: Assign data stewards, define data ownership, enforce accountability.
-Data Storytelling
-Define Your Objective
+
+## Data Storytelling
+
+### Define Your Objective
 
 Definition: Clearly articulate the purpose of your data story.
 Key Elements: Objective clarity, target audience.
