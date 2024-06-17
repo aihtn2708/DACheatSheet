@@ -54,34 +54,39 @@ Definition: Managing and overseeing data assets to ensure data quality and integ
 Key Elements: Data stewards, data ownership, accountability.
 Best Practices: Assign data stewards, define data ownership, enforce accountability.
 
-## Data Storytelling
+# Data Storytelling
 
-### Define Your Objective
+## Define Your Objective
 
 Definition: Clearly articulate the purpose of your data story.
 Key Elements: Objective clarity, target audience.
 Best Practices: Set clear objectives, know your audience.
-Know Your Data
+
+## Know Your Data
 
 Definition: Understand the data you are working with.
 Key Elements: Data sources, data context, data limitations.
 Best Practices: Analyze data sources, understand the context, be aware of limitations.
-Craft a Compelling Narrative
+
+## Craft a Compelling Narrative
 
 Definition: Turn data insights into an engaging story.
 Key Elements: Story structure, key insights, emotional connection.
 Best Practices: Use a clear structure (beginning, middle, end), highlight key insights, connect emotionally.
-Visualize Your Data
+
+## Visualize Your Data
 
 Definition: Use visuals to enhance understanding and retention of data.
 Key Elements: Charts, graphs, infographics.
 Best Practices: Choose the right visualizations, keep it simple, ensure accuracy.
-Engage Your Audience
+
+## Engage Your Audience
 
 Definition: Make your data story interactive and engaging.
 Key Elements: Interaction, feedback, relevance.
 Best Practices: Use interactive visuals, seek feedback, ensure relevance to the audience.
-Call to Action
+
+## Call to Action
 
 Definition: Provide a clear next step based on your data story.
 Key Elements: Actionable insights, recommendations.
